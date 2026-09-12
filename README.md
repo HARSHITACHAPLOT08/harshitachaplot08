@@ -16,6 +16,9 @@
   <a href="https://www.kaggle.com/harshitachaplot">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+  <a href="https://tryhackme.com/p/harshitachaplot08">
+  <img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
 </p>
 
 ---
